@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Faster+One&family=Poppins:wght@300&display=swap');
+
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    
+
+}
+li, ul, a {
+    font-weight: 1000;
+    font-size: 15px;
+    font-family: 'Poppins', sans-serif;
+    list-style-type: none;
+    text-decoration: none;
+    color: black;
+}
+
+.main-title {
+    font-family: 'Faster One', cursive;
+    font-size: 50px;
+    text-align: center;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+
+} 
+  
+.nav_points li {
+    display: inline-block;
+    padding: 0px 20px;
+}
+
+.nav_points.right li {
+    padding-right: 50px;
+}
+
+hr {
+    border: none;
+    border-top: 3.5px solid;
+
+}
