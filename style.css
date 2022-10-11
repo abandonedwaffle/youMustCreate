@@ -2,6 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Faster+One&family=Poppins:wght@300&display=swap');
 
 
+
 * {
     box-sizing: border-box;
     margin: 0;
@@ -60,7 +61,7 @@ hr {
     padding-bottom: 100px;
 }
 .para-intro {
-    font-size: 20px;
+    font-size: 18px;
     color: white;
     font-family: 'Poppins', sans-serif;
     text-align: center;
@@ -74,4 +75,38 @@ hr {
     margin-left: auto;
     margin-right: auto;
     padding-top: 20px;
+}
+.question {
+    text-align: center;
+    font-size: 18px;
+    font-family: 'Poppins', sans-serif;
+    color: white;
+    
+    
+}
+.answer {
+    text-align: center;
+    font-size: 18px;
+    font-family: 'Poppins', sans-serif;
+    color: white;
+    margin: 0px 450px;
+}
+.img-grid {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 35px;
+    margin-top: 70px;
+}
+.img-2 {
+    width: 448.312px;
+    height: 560.406px;
+}
+.img-3 {
+    width: 448.312px;
+    height: 560.406px;
+}
+.img-4 {
+    width: 448.312px;
+    height: 560.406px;
 }
