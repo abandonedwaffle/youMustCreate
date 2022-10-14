@@ -110,3 +110,15 @@ hr {
     width: 448.312px;
     height: 560.406px;
 }
+
+.img-grid-two {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 35px;
+    margin-top: 60px;
+}
+.img-5 {
+    width: auto;
+    height: 560.406px;
+}
