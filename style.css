@@ -58,10 +58,10 @@ hr {
     font-family: 'Poppins', sans-serif;
     font-style: italic;
     padding-top: 100px;
-    padding-bottom: 100px;
+    padding-bottom: 50px;
 }
 .para-intro {
-    font-size: 18px;
+    font-size: 15px;
     color: white;
     font-family: 'Poppins', sans-serif;
     text-align: center;
@@ -78,7 +78,7 @@ hr {
 }
 .question {
     text-align: center;
-    font-size: 18px;
+    font-size: 15px;
     font-family: 'Poppins', sans-serif;
     color: white;
     
@@ -86,7 +86,7 @@ hr {
 }
 .answer {
     text-align: center;
-    font-size: 18px;
+    font-size: 15px;
     font-family: 'Poppins', sans-serif;
     color: white;
     margin: 0px 450px;
@@ -119,6 +119,37 @@ hr {
     margin-top: 60px;
 }
 .img-5 {
-    width: auto;
+    width: 747px;
     height: 560.406px;
+}
+.img-alpha {
+    width: 640px;
+    height: 560.406px;
+}
+.img-grid-three {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+    margin-top: 30px;
+}
+.img-6 {
+    height: 682.5px;
+    width: auto;
+}
+.last-image {
+    display: flex;
+    justify-content: center;
+    
+}
+.img-9 {
+    width: 712px;
+    height: 534px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.end-foot {
+    color: white;
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
 }
